@@ -11,7 +11,7 @@ Steps:
    "protoc": {
       // need to add this to remove import error in proto file
       "options": [
-        "--proto_path=<proto folder>"
+        "--proto_path=<proto folders>"
       ]
     }
    ```
